@@ -10,4 +10,4 @@ Directory:
 6 SVM		-> 	The Support vecgtor machines with RBF kernel
 7 MSE		-> 	The linear MSE algorithm
 
-Run demo.m file to start the algorithm on Two_norm database
+Run demo.m file to start the algorithm on Letter database
